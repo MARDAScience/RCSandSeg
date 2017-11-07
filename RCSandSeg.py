@@ -109,9 +109,9 @@ warnings.filterwarnings("ignore")
 
 rootfolder = '/myfiles/SANDBAR_REMOTECAMERAS/' #root folder where images are located
 
-rootfolder = askdirectory(initialdir=rootfolder) 
-rootfolder += os.sep
-print(rootfolder)
+# rootfolder = askdirectory(initialdir=rootfolder) 
+# rootfolder += os.sep
+# print(rootfolder)
 
 Athres = 100 #smallest permissible bar size
 scale = 0.25 #size of image actually worked with
