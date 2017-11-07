@@ -1,4 +1,8 @@
 # RCSandSeg
+
+[![DOI](https://zenodo.org/badge/109897334.svg)](https://zenodo.org/badge/latestdoi/109897334)
+
+
 Program for Interactive Sandbar Segmentation using GrabCut algorithm.
 
 For interactive segmentation of sandbars in imagery from remote cameras in Grand Canyon. Accompanies the following report
