@@ -9,14 +9,33 @@ Grams, Tusso, Buscombe (2017) Automated Remote Cameras for Monitoring Alluvial S
 
 A Program by Daniel Buscombe, USGS and NAU. Written in 2016 and 2017
 
-Bugs/comments/questions: daniel.buscombe@nau.edu
+##Help
+Bugs/comments/questions: daniel dot buscombe at nau dot edu
+
+We assume you have some familiarity with installing and running python programs, and will only answer queries that are specifically related to the program. In other words, do not expect us to teach you how to install or use python or the program's dependencies. For example, we will not help you install git, opencv, or matplotlib. That is up to you. 
+
+##Obtaining the Program
+The program can be obtained from https://github.com/dbuscombe-usgs/RCSandSeg
+
+Using git, clone the repository using, from a command window: 
+
+```
+git clone git@github.com:dbuscombe-usgs/RCSandSeg.git
+```
+
+or, using the 'Clone or Download button', download the zipped archive and unzip to a suitable place on your computer.  
+
 
 ## Before You Start
+The program is designed to process imagery organized in a specific way.
+
 Open 'RCSandSeg.py' in your favourite text editor (such as Notepad++, Atom, WordPad) and navigate to the line that says
 
 ```
 rootfolder = '/myfiles/SANDBAR_REMOTECAMERAS/'
 ```
+
+## Install Program Dependencies
 
 ## How to Run
 Open a command prompt and type
